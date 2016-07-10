@@ -6,7 +6,7 @@
 .PARAMETER vmName
     Full VM name for the computer object you wish to delete.
 .EXAMPLE
-    .\DNS-RemoveDNSRecord.ps1 -vmName "ew1-st01-250-01.ad.bedegaming.net"
+    .\DNS-RemoveDNSRecord.ps1 -vmName "fqdn"
 .NOTES
       Author: Andrew Mitchell
 #>

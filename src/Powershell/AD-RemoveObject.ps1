@@ -7,7 +7,7 @@
 .PARAMETER vmName
     Full VM name for the computer object you wish to delete.
 .EXAMPLE
-    .\Ad-RemoveObject.ps1 -vmName "ew1-st01-250-01.ad.bedegaming.net"
+    .\Ad-RemoveObject.ps1 -vmName "fqdn"
 #>
 
 param
