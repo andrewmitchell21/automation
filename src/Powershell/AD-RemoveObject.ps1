@@ -8,6 +8,8 @@
     Full VM name for the computer object you wish to delete.
 .EXAMPLE
     .\Ad-RemoveObject.ps1 -vmName "fqdn"
+.NOTES
+      Author: Andrew Mitchell
 #>
 
 param
